@@ -1,4 +1,4 @@
-🌟 **POS Application UI**  
+# 🌟 **POS Application UI**  
 Proyek ini adalah sebuah tampilan antarmuka (UI) untuk aplikasi Point of Sale (POS) yang dibuat menggunakan **HTML**, **CSS**, dan **Tailwind CSS**.  
 
 💡 **Tentang Proyek**  
